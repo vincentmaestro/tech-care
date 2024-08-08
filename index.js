@@ -20,7 +20,7 @@ fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
                             <p>${patient.gender}, ${patient.age}</p>
                         </div>
                     </div>
-                    <img src="../icons/more_horiz_FILL0_wght300_GRAD0_opsz24.svg" alt="more">
+                    <img src="./icons/more_horiz_FILL0_wght300_GRAD0_opsz24.svg" alt="more">
                 </li>
             `
         });
@@ -41,7 +41,7 @@ fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
             `
                 <li>
                     <p>${result}</p>
-                    <img src="../icons/download_FILL0_wght300_GRAD0_opsz24 (1).svg">
+                    <img src="./icons/download_FILL0_wght300_GRAD0_opsz24 (1).svg">
                 </li>
             `
         });
